@@ -19,13 +19,13 @@
     "recommends": {
         "modmenu" : "*"
     },
-    "name": "AntiGhost",
-    "description": "Mod that helps you get rid of ghost blocks around yourself. Use /ghost or type the g key (can be rebound) to request block-resends.",
+    "name": "AntiGhost FORK",
+    "description": "Mod that helps you get rid of ghost blocks around yourself. Use /ghost or type the g key (can be rebound) to request block-resends. Forked by IkyMax for newer versions.",
     "icon": "icon.png",
     "authors": [ "Giselbaer" ],
     "contact": {
-        "homepage": "https://www.curseforge.com/minecraft/mc-mods/antighost",
-        "sources": "https://github.com/gbl/AntiGhost",
-        "issues": "https://github.com/gbl/AntiGhost/issues"
+        "homepage": "https://modrinth.com/mod/antighost-fork",
+        "sources": "https://github.com/IkyMax/AntiGhost",
+        "issues": "https://github.com/IkyMax/AntiGhost/issues"
     }
 }
